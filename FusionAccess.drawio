@@ -1,27 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T09:12:50.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DyPVhX4brZkwtuACbXkm" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T09:39:21.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uGCVnx_KJXRbeu_1awB_" version="24.3.1" type="github">
   <diagram name="FusionAccess" id="sowJkCSxSjdkPPCQPogJ">
-    <mxGraphModel dx="1520" dy="680" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2166" dy="953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EO2S-eOPuie2aGfgl9o9-1" value="CNA" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="EO2S-eOPuie2aGfgl9o9-1" value="CNA" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-475" y="157" width="451" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EO2S-eOPuie2aGfgl9o9-2" value="AD&lt;div&gt;DNS&lt;/div&gt;&lt;div&gt;DHCP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="EO2S-eOPuie2aGfgl9o9-2" value="AD&lt;div&gt;DNS&lt;/div&gt;&lt;div&gt;DHCP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-472" y="16" width="94" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EO2S-eOPuie2aGfgl9o9-3" value="VAG&lt;div&gt;VLB&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="EO2S-eOPuie2aGfgl9o9-3" value="VAG&lt;div&gt;VLB&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-350" y="12" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EO2S-eOPuie2aGfgl9o9-4" value="HDC&lt;div&gt;ITA&lt;/div&gt;&lt;div&gt;Licens&lt;/div&gt;&lt;div&gt;DB&lt;/div&gt;&lt;div&gt;VNCProxy&lt;/div&gt;&lt;div&gt;WI&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="EO2S-eOPuie2aGfgl9o9-4" value="HDC&lt;div&gt;ITA&lt;/div&gt;&lt;div&gt;Licens&lt;/div&gt;&lt;div&gt;DB&lt;/div&gt;&lt;div&gt;VNCProxy&lt;/div&gt;&lt;div&gt;WI&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-232" y="12" width="93" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="EO2S-eOPuie2aGfgl9o9-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" edge="1" parent="1" source="EO2S-eOPuie2aGfgl9o9-4" target="EO2S-eOPuie2aGfgl9o9-4">
+        <mxCell id="EO2S-eOPuie2aGfgl9o9-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" source="EO2S-eOPuie2aGfgl9o9-4" target="EO2S-eOPuie2aGfgl9o9-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EO2S-eOPuie2aGfgl9o9-13" value="&lt;div&gt;VRM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="EO2S-eOPuie2aGfgl9o9-13" value="&lt;div&gt;VRM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-110" y="12" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="JinNxz-k6RUYrnv4iC4n-2" value="未命名图层" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
